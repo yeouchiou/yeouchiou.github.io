@@ -21,10 +21,10 @@ repository               : "yeouchiou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yeou Chiou"
   pronouns         : # example: "she/her"  
-  bio              : "Hey, I'm Yeou, a machine learning engineer who went from exploring the cosmos to building ML systems that are truly out of this world."
+  bio              : "Ex-astrophysicist turned machine learning engineer"
   location         : "California"
   employer         : "Machine Learning Engineer @ LinkedIn"
   uri              : # URL

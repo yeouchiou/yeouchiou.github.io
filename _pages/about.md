@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I'm Yeou Chiou, a machine learning engineer at LinkedIn working on various problems in job search and recommendation. 
+Hey, I'm Yeou, a machine learning engineer who went from exploring the cosmos to building ML systems that are truly out of this world.
