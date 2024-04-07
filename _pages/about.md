@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I'm Yeou[^1], a machine learning engineer who went from exploring the cosmos 🌌 to building ML systems 🤖 that are truly out of this world. 🚀 
+Hey, I'm Yeou[^1] Chiou, a machine learning engineer who went from exploring the cosmos 🌌 to building ML systems 🤖 that are truly out of this world. 🚀 
 
 Currently I'm an MLE at LinkedIn on the Talent Marketplace Data Foundations team. I work on various job search and recommendation algorithms, as well as multi-armed bandits for premium signups.
 

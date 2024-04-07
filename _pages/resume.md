@@ -25,8 +25,8 @@ Work experience
 * Nov 2021 - April 2024: **Machine Learning Engineer, LinkedIn**
   * Led 3 teams cross functionally to develop a multi-armed bandit platform for premium upsell and online jobs budget recommendation leading to a revenue increase of ~$36M annually. 
   * Created and modeled a precomputed two-tower neural network to serve as the L1 ranking layer of a job recommendation system which saved 17% latency due to the precomputation with neutral relevance impact.
-  * Migrated the first L2 job recommendation model to an internal hosted service allowing for further innovations in large parameter models due to scalabiliy service.
-  * 
+  * Migrated the first L2 job recommendation model to an internal hosted service allowing for further innovations in large parameter models due to scalability service.
+   
 * Jan 2021 - Sep 2021: **Machine Learning Scientist II, FICO**
   * Developed a Python package to aid users that did not receive favorable decisions from a machine learning model by mining frequent user characteristics and maximizing a submodular objective function from scratch to provide actionable recourse rules.
   * Mentored and formalized a plan for an intern working on developing a specialized hyperparameter search space for loan origination models.
