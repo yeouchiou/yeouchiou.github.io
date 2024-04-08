@@ -15,4 +15,6 @@ Previously I worked as an ML scientist at FICO working on algorithmic bias/fairn
 
 In another life, I received my PhD in astrophysics researching a novel formation mechanism for globular clusters, which I named "Supersonically Induced Gas Objects (SIGOs)". 
 
+Outside of work, I have a passion for attending EDM shows, playing riichi mahjong, immersing myself in Dance Dance Revolution, and mastering [kendama](https://en.wikipedia.org/wiki/Kendama).
+
 [^1]: pronounced "yo", like "Yo, what's up?"
