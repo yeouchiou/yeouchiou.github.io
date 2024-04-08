@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Skills
-======
-* Programming Languages
-  *  Python, Spark Scala, SQL, C/C++
-* Tools
-  * Tensorflow, Keras, scikit-learn, NumPy, SciPy, Matplotlib, Pandas, scikit-learn, gensim, spacy, ray
-* Other
-  * Linux/Unix, Git, LaTeX, AWS, Docker, Streamlit
-
 Work experience
 ======
 
@@ -36,7 +27,17 @@ Work experience
   * Applied machine learning techniques to develop credit card fraud detection methods based on historical transaction data while being robust to evolving fraud strategies.
   * Built pipeline for feature generation using a deep autoencoder embedding in Keras as a one-class way of identifying non-fraudulent transactions beating the baseline tree based model of an AUC by 1% potentially saving $1M in fraud.
   * Visualized a high-dimensional dataset with nonlinear dimensionality reduction techniques such as T-SNE using sci-kit learn to find clusters of fraudulent transactions.
- 
+
+
+Skills
+======
+* Programming Languages
+  *  Python, Spark Scala, SQL, C/C++
+* Tools
+  * Tensorflow, Keras, scikit-learn, NumPy, SciPy, Matplotlib, Pandas, scikit-learn, gensim, spacy, ray
+* Other
+  * Linux/Unix, Git, LaTeX, AWS, Docker, Streamlit
+
 Education
 ======
 * Ph.D in Physics (Computational Astrophysics), University of California, Los Angeles, 2020
