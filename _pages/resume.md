@@ -11,9 +11,9 @@ redirect_from:
 
 Work experience
 ======
-
-* April 2024 - Present: **Senior Machine Learning Engineer, LinkedIn**
-* Nov 2021 - April 2024: **Machine Learning Engineer, LinkedIn**
+* Jan 2025 - Present: **Software Engineer, Machine Learning, YouTube**
+* April 2024 - Jan 2025: **Senior Software Engineer, Machine Learning, LinkedIn**
+* Nov 2021 - April 2024: **Software Engineer, Machine Learning, LinkedIn**
   * Led 3 teams cross functionally to develop a multi-armed bandit platform for premium upsell and online jobs budget recommendation leading to a revenue increase of ~$36M annually. 
   * Created and modeled a precomputed two-tower neural network to serve as the L1 ranking layer of a job recommendation system which saved 17% latency due to the precomputation with neutral relevance impact.
   * Migrated the first L2 job recommendation model to an internal hosted service allowing for further innovations in large parameter models due to scalability service.
