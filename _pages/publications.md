@@ -12,6 +12,9 @@ author_profile: true
 {% include base_path %}
 
 ## Machine Learning
+- [Matching LinkedIn members with the right Premium products](https://www.linkedin.com/blog/engineering/machine-learning/matching-linkedin-members-with-the-right-premium-products)
+  Ruonan Hao, Alex Tsun, Derek Koh, **Yeou Chiou**, Jason Sun, Rohit Patra, Zhengming Xing, Stella Yu Jia, Aman Grover, Darren Sheng, Xiaobang Zhang, and Yun L.  
+  Blog post
 - [Learning to Retrieve for Job Matching](https://arxiv.org/abs/2402.13435)  
   Jianqiang Shen, Yuchin Juan, Shaobo Zhang, Ping Liu, Wen Pu, Sriram Vasudevan, Qingquan Song, Fedor Borisyuk, Kay Qianqi Shen, Haichao Wei, Yunxiang Ren, **Yeou S. Chiou**, Sicong Kuang, Yuan Yin, Ben Zheng, Muchen Wu, Shaghayegh Gharghabi, Xiaoqing Wang, Huichao Xue, Qi Guo, Daniel Hewlett, Luke Simon, Liangjie Hong, Wenjing Zhang  
   Submitted to KDD 2024
